@@ -180,7 +180,7 @@ ol {
 }
 
 .hero-title {
-  widht: 696px;
+  width: 696px;
   margin-left: auto;
   margin-right: auto;
 
@@ -455,7 +455,6 @@ ol {
   padding-left: 24px;
   border: 1px solid var(--line-color);
   border-top: none;
-
 }
 
 .portfolio-title {
