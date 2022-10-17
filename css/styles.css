@@ -41,6 +41,7 @@ ol {
   --background-color: #ffffff;
   --line-color: #ececec;
   --background-button-color-sec: #188ce8;
+  --background-color-our-team: #f5f4fa;
 }
 
 .page {
@@ -173,8 +174,6 @@ ol {
 .hero {
   background-color: var(--background-footer-color);
 
-  /* margin-bottom: 94px */
-
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
@@ -277,6 +276,7 @@ ol {
 .team {
   padding-top: 94px;
   padding-bottom: 94px;
+  background-color: var(--background-color-our-team);
 }
 
 .team-type {
@@ -470,10 +470,9 @@ ol {
   color: var(--title-text-color);
   font-size: 16px;
   line-height: 1.9;
-  width: 322px;
-  height: 30px;
   margin-left: 0;
   margin-top: 4px;
+  font-weight: 400;
 }
 
 .list-title {
